@@ -24,9 +24,6 @@ Ejecución
 
 Clona el repositorio:
 
-git clone https://github.com/usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
-
 
 Ejecuta el menú principal:
 
